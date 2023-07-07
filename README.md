@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajithemram&label=Profile%20views&color=0e75b6&style=flat" alt="biswajithemram" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full Stack**
 
 - 📫 How to reach me **biswajithemram753@gmail.com**
 
