@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **biswajithemram753@gmail.com**
 
-- 📄 Know about my experiences [5 month](5 month)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
